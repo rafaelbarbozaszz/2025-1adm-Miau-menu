@@ -1,0 +1,12 @@
+:root{
+    --old-lace: #f7f0e3ff;
+    --amaranth-pink: #eda2c3ff;
+    --tickle-me-pink: #f48eb8ff;
+    --raw-umber: #985a40ff;
+    --seal-brown: #64321bff;
+
+}
+
+body{
+    background-color: var(--amaranth-pink);
+}
